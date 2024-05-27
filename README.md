@@ -5,6 +5,7 @@ Updates will get released regularly. Do let us know about your other demands fro
 Launch - 19th March, 2024
 
 1st update release - 5th May, 2024
+
 2nd update release - 27th May, 2024
 
 
