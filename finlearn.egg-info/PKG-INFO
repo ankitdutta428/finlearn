@@ -1,3 +1,21 @@
+Metadata-Version: 2.1
+Name: finlearn
+Version: 0.0.461
+Summary: A one-stop package for entire financial analysis and market prediction using Deep Learning
+Author: Ankit Dutta
+Author-email: ankitduttaiitkgp@gmail.com
+License: Apache 2.0
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: plotly
+Requires-Dist: yfinance
+Requires-Dist: matplotlib
+Requires-Dist: pandas
+Requires-Dist: seaborn
+Requires-Dist: keras
+Requires-Dist: datetime
+
 This is an all in one complete python package to solve your entire financial analysis and market prediction demands. This library enables you to work not on the financial analysis but also complements you by giving its inputs on the market prediction.
 
 Updates will get released regularly. Do let us know about your other demands from this library at the email address provided.

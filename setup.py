@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 # Package metadata
 NAME = 'finlearn'
 DESCRIPTION = 'A one-stop package for entire financial analysis and market prediction using Deep Learning'
-VERSION = '0.0.45'
+VERSION = '0.0.461'
 AUTHOR = 'Ankit Dutta'
 AUTHOR_EMAIL = 'ankitduttaiitkgp@gmail.com'
 URL = 'https://github.com/ankitdutta428/finlearn'

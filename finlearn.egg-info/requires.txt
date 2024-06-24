@@ -1,0 +1,7 @@
+plotly
+yfinance
+matplotlib
+pandas
+seaborn
+keras
+datetime

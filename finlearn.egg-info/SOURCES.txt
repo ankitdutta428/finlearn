@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+finlearn/__init__.py
+finlearn/analysis.py
+finlearn/check.py
+finlearn/plotter.py
+finlearn/time_series.py
+finlearn.egg-info/PKG-INFO
+finlearn.egg-info/SOURCES.txt
+finlearn.egg-info/dependency_links.txt
+finlearn.egg-info/requires.txt
+finlearn.egg-info/top_level.txt
